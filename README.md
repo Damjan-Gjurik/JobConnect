@@ -1,10 +1,10 @@
 # 💼 Job Connect
 
-Job Connect is a web application where companies can hire talent and candidates that can apply for compatible jobs.
+Web application where companies can hire talent and candidates that can apply for compatible jobs. This web application is a personal project that helped me improve my knowledge in web development
 
 ---
 
-## 📌 Main functions
+## 📌 Main features
 - User registration and login for companies and candidates
 - Applying for jobs
 - Hiring talent
