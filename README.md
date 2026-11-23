@@ -100,6 +100,7 @@ Job Connect is a web application where companies can hire talent and candidates 
 ---
 
 ## 📂 Project Structure
+```text
 JobConnect
 │
 ├── README.md
@@ -132,3 +133,4 @@ JobConnect
     │   └── style.css
     ├── uploads
     └── index.php
+```
