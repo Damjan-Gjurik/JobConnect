@@ -134,3 +134,6 @@ JobConnect
     ├── uploads
     └── index.php
 ```
+
+## 👨‍💻 Author
+Damjan Gjurik
