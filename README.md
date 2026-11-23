@@ -66,7 +66,7 @@ Job Connect is a web application where companies can hire talent and candidates 
 ---
 
 ### My Company
-![My Company](Screenshots/myCompany.png
+![My Company](Screenshots/myCompany.png)
 
 ---
 
